@@ -5,7 +5,7 @@
   "sites": [
       {
       "key": "NewDouBan",
-      "name": "🐮【公众号：王二小放牛娃】🐮",
+      "name": "91播放网站",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "searchable": 0,
@@ -126,7 +126,7 @@
     },
     {
       "key": "NewPanMe123",
-      "name": "💓123┃4K💓",
+      "name": "💓91┃4K💓",
       "type": 3,
       "api": "csp_NewPanMe123Guard",
       "searchable": 1,
